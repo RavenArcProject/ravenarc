@@ -14,7 +14,7 @@ We are:
 ## 🧭 Structure
 
 - **Website**: [https://ravenarc.org](https://ravenarc.org)
-- **ENS**: [ravenarc.eth] (https://app.ens.domains/ravenarc.eth)
+- **ENS**: [ravenarc.eth](https://app.ens.domains/ravenarc.eth)
 - **Wallet**: `0x...` (fill in)
 - **DAO Setup**: [coming soon via Juicebox, Gnosis, Snapshot]
 
